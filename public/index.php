@@ -7,7 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Globe Bank</title>
 </head>
+
 <body>
 
+    <h1>Globe Bank: Coming Soon</h1>
+
 </body>
+
 </html>
